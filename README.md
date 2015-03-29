@@ -1,3 +1,3 @@
-# liusxx.github.io
+# liusxx.github.com
 
 LX_blog
